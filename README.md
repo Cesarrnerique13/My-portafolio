@@ -9,7 +9,7 @@ Here are some of the real-world projects I've built using Python & Scrapy 👇
 ## 🛒 MercadoLibre Web Scraper
 Extracts product titles, prices, and descriptions from MercadoLibre Venezuela.
 
-- 🔗 [View Repo](https://github.com/cesarrnerique13/mercadolibre-scraper)
+- 🔗 [View Repo](https://github.com/Cesarrnerique13/My-portafolio/blob/main/nivel2_mercadolibre.py)
 - 💻 Tech: Python, Scrapy, XPath
 - 📄 Output: CSV
 
@@ -18,7 +18,7 @@ Extracts product titles, prices, and descriptions from MercadoLibre Venezuela.
 ## 🏨 TripAdvisor Hotel Scraper
 Gathers hotel names, ratings, descriptions and amenities.
 
-- 🔗 [View Repo](https://github.com/cesarrnerique13/tripadvisor-hoteles)
+- 🔗 [View Repo](https://github.com/Cesarrnerique13/My-portafolio/blob/main/nivel2_tripadvisor2.py)
 - 💻 Tech: Python, Scrapy
 - 📄 Output: CSV
 
@@ -36,7 +36,7 @@ Extracts user reviews, authors, and hotel names from TripAdvisor profiles.
 ## 🎮 IGN LATAM News Scraper
 Crawls articles, reviews, and videos from IGN LATAM.
 
-- 🔗 [View Repo](https://github.com/cesarrnerique13/ign-scraper)
+- 🔗 [View Repo](https://github.com/Cesarrnerique13/My-portafolio/blob/main/nivel2_ign.py)
 - 💻 Tech: Python, Scrapy, CrawlSpider
 - 📄 Output: JSON
 
