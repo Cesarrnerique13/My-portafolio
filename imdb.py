@@ -1,11 +1,11 @@
 # IMDb Top Scraper
 
-**Qué hace**  
-Extrae el Top 250 de películas de https://m.imdb.com/chart/top/, guardando:
-- `rank` (posición)
-- `title` (título)
-- `year` (año)
-- `rating` (puntuación)
+#**Qué hace**  
+#Extrae el Top de películas de https://m.imdb.com/chart/top/, guardando:
+#- `rank` (posición)
+#- `title` (título)
+#- `year` (año)
+#- `rating` (puntuación)
 
 import requests 
 from lxml import html
